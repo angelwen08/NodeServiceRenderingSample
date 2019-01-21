@@ -1,0 +1,18 @@
+{
+  "name": "nodeservicesexamples",
+  "version": "0.0.1",
+  "description": "node service test sample",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angelwen08/NodeServicesExamples.git"
+  },
+  "author": "Chan Wen",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "aspnet-prerendering": "^2.0.6",
+    "babel-core": "^6.7.4",
+    "babel-preset-es2015": "^6.6.0",
+    "node-chartist": "^1.0.2",
+    "nodeservicetesting": "^0.0.2"
+  }
+}
